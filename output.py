@@ -12,7 +12,7 @@ print('Hello i am', name, 'and i am', age, 'years old')
 # Old Style
 print('Hello i am %s and i am %d years old' % (name, age))
 
-# New Style
+# New Style 
 print('Hello i am {0} and i am {1} years old'.format(name, age))
 
 # String Interpolation
