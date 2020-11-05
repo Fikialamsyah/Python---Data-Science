@@ -25,4 +25,4 @@ while True:
     a = input('Masukan kata : ')
     if a == 'quit':
         break
-    print(f'panjanag kata : {len(a)}')
+    print(f'panjang kata : {len(a)}')
