@@ -12,4 +12,4 @@ try:
 except Exception as e:
     print(f'Error : {e}')
 finally:
-    print('Finish') # akan di eksekusi baik error atau tidak
+    print('Finish') # akan di eksekusi baik ada error atau tidak
